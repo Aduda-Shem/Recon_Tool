@@ -36,7 +36,8 @@ Make sure these tools are accessible via the command line.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Aduda-Shem/bug-bounty.git
+   git clone https://github.com/Aduda-Shem/Recon_Tool.git
+   
 2. Usage
    ```shell
    python3 eagles_eye.py [domain] [target_ip] [url]
